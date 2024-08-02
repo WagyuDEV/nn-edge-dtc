@@ -84,3 +84,6 @@ frame = cv2.resize(frame, (1280, 960), interpolation=0)
 	#set align(center)
 	#image("./edge.png")
 ]]
+
+If you would like to play with the code from
+from this article go to #link("https://github.com/WagyuDEV/nn-edge-dtc")
